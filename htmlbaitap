@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- Header -->
+        <header>
+            <div id="tieude" style="display: flex;">
+                <div id="logo">Landings</div>
+                <nav>
+                    <ul>
+                        <li><a href="">WORK</a></li>
+                        <li><a href="">FEATURES</a></li>
+                        <li><a href="">BLOG</a></li>
+                        <li><a href="">CONTACT US</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div id="logo1">Lorem ipsum</div>
+            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span><br>
+            <span>sed do elusmod tempor incididunt ut labore et dolore magna aliqua.</span><br><br><br>
+            <input type="button" value="VIEW OUR PROJECTS">
+        </header>
+        <!-- Section -->
+        <section style="column-count: 2;">
+            <!-- Chia 2 cột đều nhau -->
+
+            <div id="one">
+                <span1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cras ultrices accumsan ornare. Phasellus
+                    tristique ullamcorper luctus.</p>
+                <input type="button" value="VIEW OUR PROJECTS">
+            </div>
+
+            <div class="two">
+                <img src="../baitap/img/baitap/Rectangle 2@2x.png" width="658px">
+            </div>
+        </section>
+        <!-- Section2 -->
+        <section2>
+            <div style="background: #dedede">
+                <div class="three">
+                    <div id="logo3">Lorem ipsum dolor sit</div><br>
+                    <span2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cars ultrices accumsan arnare
+                    </span2><br>
+                    <span2>Phasellus tristique ullamcorper luctus. Nunc varius ullamcorper felis. Nulla nibh ipsum,
+                        rutrum.</span2><br><br><br><br>
+                </div>
+
+                <div class="box">
+                    <!-- 3 box trên -->
+                    <div style=" display: flex; text-align: center;">
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Peace@2x.png" alt="" class="nhandan"></div>
+                            <h4>Peace of Mind</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Coffee@2x.png" alt="" class="nhandan"></div>
+                            <h4>Coffee Breaks</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Rewards@2x.png" alt="" class="nhandan"></div>
+                            <h4>Rewards</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 3 box dưới -->
+                    <div style="display: flex; text-align: center;">
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Delivery@2x.png" alt="" class="nhandan"></div>
+                            <h4>Delivery</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Inbox@2x.png" alt="" class="nhandan"></div>
+                            <h4>Inbox</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                        <div class="box1">
+                            <div id="icon"><img src="img/baitap/Setting.png" alt="" class="nhandan"></div>
+                            <h4>Setting</h4>
+                            <div id="noidung">
+                                Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit.
+                                Cras ultrices accumsan ornare.
+                                Phasellus tristique
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section2>
+        <!-- Section3 -->
+        <section3>
+            <div id="logo4">
+                <div class="play">
+                    <img src="img/baitap/btn-play@2x.png" id="nutplay"><br>
+                    <span3>Our Case Studies</span3><br>
+                    <span4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cras ultrices accumsan ornare
+                    </span4><br>
+                    <span4>Phasellus tristique ullamcorper luctus. Nunc varius ullamcorper felis. Nulla nibh ipsum,
+                        rutrum.</span4>
+                </div>
+            </div>
+        </section3>
+        <!-- Section4 -->
+        <section4>
+            <div id="projects">
+                <span5>Featured Projects</span5><br>
+                <span6>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cras ultrices accumsan ornare</span6>
+                <br>
+                <span6>Phasellus tristique ullamcorper luctus. Nunc varius ullamcorper felis. Nulla nibh ipsum, rutrum.
+                </span6>
+            </div>
+            <!-- Box1 -->
+            <div style="column-count: 2;">
+                <div id="box1">
+                    <span1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cras ultrices accumsan ornare.
+                        Phasellus tristique ullamcorper luctus.</p>
+                    <input type="button" value="VIEW OUR PROJECTS">
+                </div>
+                <div class="boxx1">
+                    <img src="../baitap/img/baitap/Fl0@2x.png" width="660px">
+                </div>
+            </div>
+            <!-- Box2 -->
+            <div style="column-count: 2;">
+                <div class="box2">
+                    <img src="../baitap/img/baitap/Fl1@2x.png" width="660px" style="padding-left: 10px;">
+                </div>
+                <div id="box2">
+                    <span1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cras ultrices accumsan ornare.
+                        Phasellus tristique ullamcorper luctus.</p>
+                    <input type="button" value="VIEW OUR PROJECTS">
+                </div>
+            </div>
+            <!-- Box3 -->
+            <div style="column-count: 2;">
+                <div id="box1">
+                    <span1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cras ultrices accumsan ornare.
+                        Phasellus tristique ullamcorper luctus.</p>
+                    <input type="button" value="VIEW OUR PROJECTS">
+                </div>
+                <div class="boxx1">
+                    <img src="../baitap/img/baitap/Fl2@2x.png">
+                </div>
+            </div>
+            <!-- Tạo Ảnh Mờ-->
+            <div class="anhmo">
+                <img src="../baitap/img/baitap/submarine.png" width="250px" height="250px">
+                <img src="../baitap/img/baitap/cake.png" width="250px" height="250px">
+                <img src="../baitap/img/baitap/cabin.png" width="250px" height="250px">
+            </div>
+        </section4>
+        <!-- Footer -->
+        <footer>
+            <div>copyright 2017. All Rights Reserved.</div>
+            <video width="320" height="240" controls>
+                <source src="movie.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+        </footer>
+    </div>
+</body>
+
+</html>
